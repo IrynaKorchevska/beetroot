@@ -1,4 +1,8 @@
 {
 "username": "Redmi",
   "isactive": true
+},
+{
+  "username": "dendelion",
+  "isactive": false
 }
